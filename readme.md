@@ -1,5 +1,6 @@
 Source codes for Jointly Sparse Hashing (JSH)
 
+
 # 1: Dataset
 Download the "mnist" dataset and put it in the file named "data".
 
